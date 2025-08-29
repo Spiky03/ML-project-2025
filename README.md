@@ -48,6 +48,14 @@ The notebook includes the following steps:
 * **Student model** → lower accuracy, but much lighter.
 * Proper tuning of α and temperature `T` allows the student to approach teacher-level performance while reducing computational cost.
 
+|      Model       |	Accuracy |
+|------------------|-----------|
+| Random Forest    |	0.9487   |
+| SVM (calibrated) |	0.9582   |
+| KNN              |	0.9434   |
+| Ensemble         |	0.9609   |
+| Student (KD)     |	0.9530   |
+
 ---
 
 ## 📚 References
