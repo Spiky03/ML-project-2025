@@ -56,6 +56,10 @@ The notebook includes the following steps:
 | Ensemble         |	0.9609   |
 | Student (KD)     |	0.9530   |
 
+### Best Checkpoint
+
+You can find the best chekpoint of the student model [here](https://github.com/Spiky03/ML-project-2025/blob/Spiky/CHECKPOINT/student_mlp_kd.pth).
+
 ---
 
 ## 📚 References
